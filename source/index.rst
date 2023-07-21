@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to doc's documentation!
+书籍总结分享文档!
 ===============================
 
 .. toctree::
@@ -11,10 +11,6 @@ Welcome to doc's documentation!
    :caption: Contents:
 
 
+   research
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
